@@ -2,7 +2,7 @@
 For practicing teamwork.
 
 
-## Gettting Started: Follow these steps to learn github.
+## #Gettting Started: Follow these steps to learn github.
 
 1. Creating a GitHub Account
   If you don't have a GitHub account, you need to sign up for one at github.com.
