@@ -100,5 +100,6 @@ git merge other-branch     # Merge changes from other-branch into the current br
   Utilize GitHub Pages to host a website directly from your GitHub repository.
 
 Conclusion
-  GitHub is a powerful platform for version control and collaboration. By following these steps, you can effectively manage your projects and collaborate with others. Remember to 
+  GitHub is a powerful platform for version control and collaboration. By following these steps, you can effectively manage your projects and collaborate with others. 
+  Remember to 
   regularly commit changes, pull updates from the remote repository, and communicate with your collaborators using GitHub's features.
