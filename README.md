@@ -1,4 +1,4 @@
-# Github-Practice Pro
+# Github-Practice Pr
 For practicing teamwork.
 
 
